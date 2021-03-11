@@ -1,0 +1,4 @@
+For new week, we will be trying to solve the following two questions. There are available on LeetCode: 
+
+https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+https://leetcode.com/problems/increasing-decreasing-string/
