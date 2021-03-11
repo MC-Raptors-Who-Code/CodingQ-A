@@ -1,0 +1,8 @@
+Write a function/method that determines whether two given strings are
+anagrams of each other. It should ignore whitespace and case.
+
+For example:
+"Dusty" and "Study" are anagrams.
+"Anagram" and "Nag a ram" are anagrams.
+"S   ave" and "vase " are anagrams.
+"Dessert" and "Stressed" are not anagrams.
