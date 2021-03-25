@@ -3,7 +3,7 @@
 //  minOperations
 //
 //  Created by Olyad Kitila on 3/15/21.
-//
+//  Explained and validated on 3/25/21✔✔✔
 
 #include <iostream>
 #include <vector>
