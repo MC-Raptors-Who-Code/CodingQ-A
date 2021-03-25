@@ -2,6 +2,7 @@ import java.util.Arrays;
 /**
  * 
  * @author Rose Griffin
+ * Explained and validated on 3/25/21✔✔✔
  *
  */
 public class IncreasingDecreasingString {
