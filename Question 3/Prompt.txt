@@ -1,0 +1,5 @@
+https://leetcode.com/problems/buddy-strings/
+
+Please do not just aim to solve the sample tests. Submit your code on Leetcode to make sure it passes all thge tests.
+By doing so, I think we will learn to build fast and reliable code. 
+Good luck everyone!
