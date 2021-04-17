@@ -1,0 +1,5 @@
+Question #1
+https://leetcode.com/problems/add-digits/
+
+Question #2 (For new week)
+https://leetcode.com/problems/jewels-and-stones/
